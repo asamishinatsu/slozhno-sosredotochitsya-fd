@@ -10,26 +10,26 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --bg-image: url("../images/cover-image-light.png");
-  --bg-color: #FFF1F7;
-  --accent-color: #FF8DCB;
+  --bg-color: #fff1f7;
+  --accent-color: #ff8dcb;
   --headings-color: #353430;
   --headings-color-hover: #35343066;
   --titles-color: #353430;
   --paragraphs-color: #353430;
   --rec-visibility: hidden;
-  --page-title-color: #FFC2E6;
+  --page-title-color: #ffc2e6;
 }
 
 @media (prefers-color-scheme: light) {
   :root {
     --bg-image: url("../images/cover-image-light.png");
-    --bg-color: #FFF1F7;
-    --accent-color: #FF8DCB;
+    --bg-color: #fff1f7;
+    --accent-color: #ff8dcb;
     --headings-color: #353430;
     --headings-color-hover: #35343066;
     --titles-color: #353430;
     --paragraphs-color: #353430;
     --rec-visibility: hidden;
-    --page-title-color: #FFC2E6;
+    --page-title-color: #ffc2e6;
   }
-} 
+}

@@ -11,11 +11,11 @@
   */
   --bg-image: url("../images/cover-image-dark.png");
   --bg-color: #000028;
-  --accent-color: #FF0070;
-  --headings-color: #FF0070;
-  --headings-color-hover: #FF007066;
+  --accent-color: #ff0070;
+  --headings-color: #ff0070;
+  --headings-color-hover: #ff007066;
   --titles-color: #000028;
-  --paragraphs-color: #F1B2CE;
+  --paragraphs-color: #f1b2ce;
   --rec-visibility: visible;
-  --page-title-color: #DB00FF;
+  --page-title-color: #db00ff;
 }
