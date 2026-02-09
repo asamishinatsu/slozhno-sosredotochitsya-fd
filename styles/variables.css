@@ -14,7 +14,7 @@
   --rec-visibility: visible;
   --page-title-color: #DB00FF;
   --screen-min-height: 668px;
-  --page-padding: 10px;
+  --page-padding-sides: 10px;
   --page-title-font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   --page-gap: 40px;
   --main-gap: 50px;
@@ -23,9 +23,10 @@
 @media (width >= 768px) {
   :root {
     --screen-min-height: 1024px;
-    --page-padding: 20px;
+    --page-padding-sides: 20px;
     --page-gap: 60px;
     --main-gap: 80px;
+    --page-title-font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   }
 }
 
